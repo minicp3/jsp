@@ -1,0 +1,8 @@
+@CHARSET "UTF-8";
+
+.lt{float:left;margin:10px 0px;}
+  .lt a:link{text-decoration: none;}
+  .lt  p a{width:100px; font-size:16px; color:#ff9900; display:inline-block;   line-height:60px;  text-align:center;}
+  .lt  p a.sz{background:#FF3366;   color:#fff}
+  .lt  a:hover{background:#FF3366;   color:#fff}
+  
